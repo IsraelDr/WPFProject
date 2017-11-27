@@ -22,7 +22,7 @@ namespace WPFProject
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent();//
         }
     }
 }
