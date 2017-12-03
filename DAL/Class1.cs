@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ex1_BE
+namespace DAL
 {
-    public class MyBE
+    public class Class1
     {
     }
 }
